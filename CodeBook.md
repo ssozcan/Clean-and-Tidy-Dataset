@@ -12,7 +12,7 @@ This code book describes the data, the variables, and the work that is performed
 * Activity lables are replaced with descriptive activity types using a ```for``` loop through all rows of the ```activity``` column 
 
 ## The variables
-* The variables are a set of masurements consisting of either a mean or a standard deviation measurement selected from the main data set of 561 variables:
+The variables are a set of masurements consisting of either a mean or a standard deviation measurement selected from the main data set of 561 variables:
 * activity  
 * subject   
 * tBodyAcc_mean_X   
